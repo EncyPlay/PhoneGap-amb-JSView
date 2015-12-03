@@ -1,5 +1,7 @@
 # La meva primera APP
 
+Pablo y Gabriela
+
 
 29/11/2015
 
