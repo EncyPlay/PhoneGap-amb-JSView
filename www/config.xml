@@ -2,22 +2,22 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.projecte_info_4t"
-        versionCode = "20" 
-        version     = "1.0.20" >
+        id          = "AN-94H"
+        versionCode = "21" 
+        version     = "1.0.21" >
 	
 	<!-- versionCode is optional and Android only -->
 
 	<preference name="phonegap-version" value="cli-5.2.0" />
 
-    <name>Projecte 4t INFO 2015 2016</name>
+    <name>AN-94H</name>
 
    <description>
        Aplicació phonegap del salumnes de 4t info Curs 2015 2016
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="https://numancia.cat/intranet" email="pablo23082000@gmail.com">
+       Pablo Fernando y Gabriela Mariscal
     </author>
 
 	<content src="index.html"/>
