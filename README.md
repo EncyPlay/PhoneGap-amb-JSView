@@ -1,9 +1,7 @@
 # La meva primera APP
 
 Pablo y Gabriela
-
-
-29/11/2015
+03/12/2015
 
 02/12/2015
 El projecta ara es diu : PhoneGap-amb-JSView
