@@ -1,6 +1,6 @@
 # La meva primera APP
 
-Pablo y Gabriela
+Pablo Fernando y Gabriela
 03/12/2015
 
 02/12/2015
