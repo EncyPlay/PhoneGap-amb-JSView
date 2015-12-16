@@ -7,19 +7,19 @@ window.addEventListener('load', function() {
 	*/
     $JSView.declareView({ 
         viewA: {
-            url: '/viewA',
-            template: 'views/viewA.html',
-            controller: 'viewA'
+            url: '/Inici',
+            template: 'views/Inici.html',
+            controller: 'Inici'
         },
         viewB: {
-            url: '/viewB',
-            template: 'views/viewB.html',
-            controller: 'viewB'
+            url: '/Sol',
+            template: 'views/Sol.html',
+            controller: 'Sol'
         },
         viewC: {
-            url: '/viewC',
-            template: 'views/viewC.html',
-            controller: 'viewC'
+            url: '/Mercuri',
+            template: 'views/Mercuri.html',
+            controller: 'Mercuri'
         }
     });
      
@@ -34,6 +34,6 @@ window.addEventListener('load', function() {
      
     /*Asign view start*/
     $JSView
-        .initView('viewA');
+        .initView('Inici');
  
 }, false);
