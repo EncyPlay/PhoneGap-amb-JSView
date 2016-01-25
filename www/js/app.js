@@ -55,6 +55,11 @@ window.addEventListener('load', function() {
             url: '/venus',
             template: 'views/venus.html',
             controller: 'venus'
+        },
+        taula: {
+            url: '/taula',
+            template: 'views/taula.html',
+            controller: 'taula'
         }
     });
      
